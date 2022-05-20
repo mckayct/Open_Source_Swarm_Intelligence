@@ -8,3 +8,4 @@ This repositiory is for the code, paper and files for swarm intelligence researc
 
 ## Photographs of the Robots
 
+[ISO View of Robot]: Photos/PXL_20220516_110912480.jpg  "Swarm Robot ISO View"
