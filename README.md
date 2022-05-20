@@ -8,5 +8,5 @@ This repositiory is for the code, paper and files for swarm intelligence researc
 
 ## Photographs of the Robots
 
-![ISO View of Robot](https://github.com/mckayct/Open_Source_Swarm_Intelligence/tree/main/Photos/PXL_20220516_110912480.jpg  "Swarm Robot ISO View")
+![ISO View of Robot](https://github.com/mckayct/Open_Source_Swarm_Intelligence/blob/9db047a9917501220417a4b8927add208d241941/Photos/PXL_20220516_110912480.jpg "Swarm Robot ISO View")
 ![Bottom View of Robot](https://github.com/mckayct/Open_Source_Swarm_Intelligence/tree/main/Photos/PXL_20220516_110931297.jpg  "Swarm Robot ISO View")
