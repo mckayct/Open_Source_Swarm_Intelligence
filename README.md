@@ -2,6 +2,9 @@
 # Open Source Swarm Intelligence
 Purpose: Low-Cost Open Source Swarm Capable Robots
 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/adafruit.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/arduino.svg" />
+
 ![Arduino](https://simpleicons.org/icons/arduino.svg "Arduino IDE")
 ![Adafruit](https://simpleicons.org/icons/adafruit.svg "Adafruit")
 ![Espressif](https://simpleicons.org/icons/espressif.svg "Espressif")
