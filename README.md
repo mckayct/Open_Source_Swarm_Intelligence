@@ -22,6 +22,7 @@ The final product uses a Mesh Network for communication, and is programmable in 
 - [Photographs of the Robots](#photographs-of-the-robots)
 - [Installation](#installation)
 - [BOM](#bill-of-materials)
+- [Ideas For Future](#ideas-for-future)
 - [Credits](#credits)
 - [License](#license)
 - [Support Me](#support-me)
@@ -78,6 +79,16 @@ Items are listed below. Users can use links attached or search on other websites
 
 
 [^2]: Does not mean price per robot, nor price per component. Simply price per the link given.
+
+## Ideas for Future
+
+While the current robot was satisfactory for an introduction to Swarm Intelligence, I would eventually like to make them into a more final product including
+* Academic Schedule for a Class Based Upon Swarm Intelligence
+* Change the drive train to Tank Tread Systems (original SMARs plan)
+* Creat New Algorithms for the Swarm
+* Look for ways to reduce price
+
+If you create something with this project, please reachout and share it with me!
 
 ---
 ## Credits
